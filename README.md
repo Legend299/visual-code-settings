@@ -5,13 +5,19 @@ Tanto para la visualización del código en **Visual Code** y el uso de comandos
 Enlace a la fuente: [Cascadia Code](https://github.com/microsoft/cascadia-code/releases/)
 , instalar la fuente **CascadiaCode-Regular** 
 
-## Temas
+## _Terminal_
+
+- Git Bash [Descargar](https://git-scm.com/downloads) (Consola preferida)
+- Windows Terminal [Descargar](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=es-mx&gl=mx) (2nda opción)
+- OhMyZh [Descargar](https://ohmyz.sh/)(Combinado con Git Bash)
+
+## _Temas_
 
 - One Dark Pro [Descargar](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.one-dark-pro) (Seleccionar One Dark Pro Darker)
 - Dracula [Descargar](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (2nda opción)
 - Atom One Dark Theme [Descargar](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)(3ra opción)
 
-## Extensiones
+## _Extensiones_
 
 - Auto Import [Descargar](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) (Auto importa librerias / archivos)
 - Error Lens [Descargar](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) (Coloca los errores de JS en una sola línea)

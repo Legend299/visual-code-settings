@@ -29,7 +29,9 @@ Enlace a la fuente: [Cascadia Code](https://github.com/microsoft/cascadia-code/r
 - Version Lens [Descargar](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) (Muestra la version de los paquetes en el código)
 - ESLint [Descargar](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) (Ordena código javascript)
 
+## Imágenes
 
+![imagen1_Visual_Code](https://github.com/Legend299/visual-code-settings/blob/main/img/imagen1.PNG)
 
 
 

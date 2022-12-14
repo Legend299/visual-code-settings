@@ -15,7 +15,8 @@ Enlace a la fuente: [Cascadia Code](https://github.com/microsoft/cascadia-code/r
 
 - One Dark Pro [Descargar](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.one-dark-pro) (Seleccionar One Dark Pro Darker)
 - Dracula [Descargar](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (2nda opción)
-- Atom One Dark Theme [Descargar](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)(3ra opción)
+- Gruvbox Hard Dark [Descargar](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) (3ra opción)
+- Atom One Dark Theme [Descargar](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)(4ta opción)
 
 ## _Extensiones_
 
@@ -38,6 +39,8 @@ Enlace a la fuente: [Cascadia Code](https://github.com/microsoft/cascadia-code/r
 ## Imágenes
 
 ![imagen1_Visual_Code](https://github.com/Legend299/visual-code-settings/blob/main/img/imagen1.PNG)
+
+![imagen2_Visual_Code](https://github.com/Legend299/visual-code-settings/blob/main/img/imagen2.PNG)
 
 
 
